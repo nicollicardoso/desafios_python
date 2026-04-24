@@ -1,0 +1,19 @@
+=== Relatório de Vendas ===
+
+Cliente: nicolli
+Produto: tenis
+Quantidade: 12
+Valor Bruto: R$ 6600.00
+Desconto: R$ 330.00
+Valor Final: R$ 6270.00
+-------------------------
+
+Cliente: nicolli
+Produto: camiseta
+Quantidade: 2
+Valor Bruto: R$ 200.00
+Desconto: R$ 0.00
+Valor Final: R$ 200.00
+-------------------------
+
+Total arrecadado pela loja: R$ 6470.00
